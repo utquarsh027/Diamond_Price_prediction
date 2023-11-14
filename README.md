@@ -34,7 +34,8 @@ The dataset used in this project is sourced from kaggle.
 3. **Feature Engineering**: Creating new features or transforming existing ones to improve model performance.
 4. **Model Building**: Training and evaluating regression models to predict diamond prices.
 5. **Model Evaluation**: Assessing model performance using appropriate metrics and validation techniques.
-6. **Deployment**: Making the model available for predictions, possibly through a web interface or API.
+6. **Deployment**: The model is deployed and available [here](https://diamondpriceprediction-yqxo7hcgsmrluosbx2pwsq.streamlit.app/).
+
 
 ## Instructions
 
